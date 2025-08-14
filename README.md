@@ -14,13 +14,13 @@ Tools & Technologies
 - Python (NumPy, Matplotlib)
 - Jupyter Notebook
 
-## 📁 Contents
+Contents
 - `Tracing_Filaments.ipynb`: Main notebook with code, visualizations, and commentary  
 - `Research paper`: The written report showing findings
 
 > **Note:** The dataset used for this analysis is not included in the repository. For reproducibility or collaboration, feel free to reach out.
 
-## 📬 Connect
+Connect
 This project reflects my passion for cosmology, data analysis, and scientific communication.  
 Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ntsikelelo) or explore more of my work!
 
