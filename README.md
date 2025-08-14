@@ -22,7 +22,7 @@ Contents
 
 Connect
 This project reflects my passion for cosmology, data analysis, and scientific communication.  
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ntsikelelo) or explore more of my work!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/ntsikelelo-tshangela) or explore more of my work!
 
 
 Want me to help you write a short comment or pinned post for GitHub that invites collaboration or feedback? Or maybe a one-liner for your LinkedIn post that sparks curiosity?
